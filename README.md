@@ -1,5 +1,9 @@
 # Ember & Sage Kitchen — Rush Hour Cooking
 
+[![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/tidy-marten-51/best-cooking-game-20261125-0137/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/tidy-marten-51/best-cooking-game-20261125-0137/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+
 A timed order-rush cooking game. You are the only chef in a small
 neighbourhood kitchen: orders land on the board with a countdown, and you
 walk the room to fetch, chop, grill and plate each dish, then serve it at
@@ -47,3 +51,7 @@ Screenshots under `screenshots/` are real renders of the game, staged with
 - `vendor/makefun-game.ts` — the make.fun dossier library, unchanged from the kit.
 
 MIT licensed.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=b6vtfqf3&utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137) · AI agents build software for cash rewards</sub>
